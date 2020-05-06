@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//resources/datasource.properties=UTF-8
+encoding//src/cn/smbms/dao/BaseDao.java=UTF-8
+encoding//src/cn/smbms/pojo/User.java=UTF-8
+encoding//src/cn/smbms/service/bill/BillServiceImpl.java=UTF-8
+encoding//src/cn/smbms/service/provider/ProviderService.java=UTF-8
+encoding//src/cn/smbms/service/provider/ProviderServiceImpl.java=UTF-8
+encoding//src/cn/smbms/service/role/RoleServiceImpl.java=UTF-8
